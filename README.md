@@ -18,3 +18,4 @@ Instrukcja:
 3. Lacek Pawel
 4. Litkowski Andrzej
 5. Wasilewski Jakub
+6. Weglerska Agata
