@@ -11,4 +11,5 @@ Instrukcja:
 ---
 ## Lista:
 1. Bielecki Jakub
-2. Litkowski Andrzej
+2. Lacek Pawel
+3. Litkowski Andrzej
