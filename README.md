@@ -14,9 +14,10 @@ Instrukcja:
 2. Bielecki Jakub
 3. Cichomski Jan
 4. Dąbkowski Adam
+3. Chudek Mateusz
+4. Cichomski Jan
 5. Gajda Wojciech
 6. Lacek Pawel
 7. Litkowski Andrzej
 8. Wasilewski Jakub
 9. Weglerska Agata
-
