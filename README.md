@@ -10,12 +10,12 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
-1. Lacek Pawel
-2. Litkowski Andrzej
-3. Aleksy Balazinski
-1. Bielecki Jakub
-2. Cichomski Jan
-3. Dybowski Bartosz
-4. Lacek Pawel
-5. Litkowski Andrzej
-6. Wasilewski Jakub
+1. Aleksy Balazinski
+2. Bielecki Jakub
+3. Cichomski Jan
+4. Dybowski Bartosz
+5. Gajda Wojciech
+6. Lacek Pawel
+7. Litkowski Andrzej
+8. Wasilewski Jakub
+9. Weglerska Agata
