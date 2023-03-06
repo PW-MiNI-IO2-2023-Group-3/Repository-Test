@@ -10,4 +10,5 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
-1. Litkowski Andrzej
+1. Lacek Pawel
+2. Litkowski Andrzej
