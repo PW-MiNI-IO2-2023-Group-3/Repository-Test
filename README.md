@@ -10,6 +10,7 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
+
 1. Aleksy Balazinski
 2. Bielecki Jakub
 3. Cichomski Jan
@@ -20,5 +21,6 @@ Instrukcja:
 6. Lacek Pawel
 7. Litkowski Andrzej
 8. Mirgos Mieszko
-9. Wasilewski Jakub
-10. Weglerska Agata
+9. Tryksza Agata
+10. Wasilewski Jakub
+11. Weglerska Agata
