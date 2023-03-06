@@ -10,7 +10,8 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
-1. Cichomski Jan
-2. Lacek Pawel
-3. Litkowski Andrzej
-4.Wasilewski Jakub
+1. Bielecki Jakub
+2. Cichomski Jan
+3. Lacek Pawel
+4. Litkowski Andrzej
+5. Wasilewski Jakub
