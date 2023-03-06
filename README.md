@@ -19,8 +19,9 @@ Instrukcja:
 4. Cichomski Jan
 5. Gajda Wojciech
 6. Lacek Pawel
-7. Litkowski Andrzej
-8. Mirgos Mieszko
-9. Tryksza Agata
-10. Wasilewski Jakub
-11. Weglerska Agata
+7. Leveilley Emma
+8. Litkowski Andrzej
+9. Mirgos Mieszko
+10. Tryksza Agata
+11. Wasilewski Jakub
+12. Weglerska Agata
