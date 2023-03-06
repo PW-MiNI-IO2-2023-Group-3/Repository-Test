@@ -17,4 +17,5 @@ Instrukcja:
 2. Cichomski Jan
 3. Lacek Pawel
 4. Litkowski Andrzej
+8. Majkusiak Franciszek
 5. Wasilewski Jakub
