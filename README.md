@@ -15,6 +15,7 @@ Instrukcja:
 3. Aleksy Balazinski
 1. Bielecki Jakub
 2. Cichomski Jan
-3. Lacek Pawel
-4. Litkowski Andrzej
-5. Wasilewski Jakub
+3. Dybowski Bartosz
+4. Lacek Pawel
+5. Litkowski Andrzej
+6. Wasilewski Jakub
