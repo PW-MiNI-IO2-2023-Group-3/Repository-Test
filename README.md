@@ -13,3 +13,4 @@ Instrukcja:
 1. Bielecki Jakub
 2. Lacek Pawel
 3. Litkowski Andrzej
+4. Wasilewski Jakub
