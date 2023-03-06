@@ -10,6 +10,9 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
+1. Lacek Pawel
+2. Litkowski Andrzej
+3. Aleksy Balazinski
 1. Bielecki Jakub
 2. Lacek Pawel
 3. Litkowski Andrzej
