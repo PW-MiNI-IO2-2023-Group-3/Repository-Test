@@ -16,9 +16,10 @@ Instrukcja:
 4. Dąbkowski Adam
 3. Chudek Mateusz
 4. Cichomski Jan
-5. Gajda Wojciech
-6. Lacek Pawel
-7. Litkowski Andrzej
-8. Mirgos Mieszko
-9. Wasilewski Jakub
-10. Weglerska Agata
+5. Dybowski Bartosz
+6. Gajda Wojciech
+7. Lacek Pawel
+8. Litkowski Andrzej
+9. Mirgos Mieszko
+10. Wasilewski Jakub
+11. Weglerska Agata
