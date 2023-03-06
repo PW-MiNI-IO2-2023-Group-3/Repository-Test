@@ -17,5 +17,6 @@ Instrukcja:
 5. Gajda Wojciech
 6. Lacek Pawel
 7. Litkowski Andrzej
-8. Wasilewski Jakub
-9. Weglerska Agata
+8. Franciszek Majkusiak
+9. Wasilewski Jakub
+10. Weglerska Agata
