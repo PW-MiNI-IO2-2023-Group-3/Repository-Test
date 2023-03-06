@@ -22,7 +22,7 @@ Instrukcja:
 7. Lacek Pawel
 8. Leveilley Emma
 9. Litkowski Andrzej
-10. Mirgos Mieszko
+10. Franciszek Majkusiak
 11. Tryksza Agata
 12. Wasilewski Jakub
 13. Weglerska Agata
