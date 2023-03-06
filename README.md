@@ -13,3 +13,7 @@ Instrukcja:
 1. Lacek Pawel
 2. Litkowski Andrzej
 3. Aleksy Balazinski
+1. Bielecki Jakub
+2. Lacek Pawel
+3. Litkowski Andrzej
+4. Wasilewski Jakub
