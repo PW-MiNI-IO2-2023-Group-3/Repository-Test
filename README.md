@@ -12,10 +12,11 @@ Instrukcja:
 ## Lista:
 1. Aleksy Balazinski
 2. Bielecki Jakub
-3. Cichomski Jan
-4. Gajda Wojciech
-5. Lacek Pawel
-6. Litkowski Andrzej
-7. Mirgos Mieszko
-8. Wasilewski Jakub
-9. Weglerska Agata
+3. Chudek Mateusz
+4. Cichomski Jan
+5. Gajda Wojciech
+6. Lacek Pawel
+7. Litkowski Andrzej
+8. Mirgos Mieszko
+9. Wasilewski Jakub
+10. Weglerska Agata
