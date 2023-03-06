@@ -10,4 +10,5 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
-1. Litkowski Andrzej
+1. Bielecki Jakub
+2. Litkowski Andrzej
