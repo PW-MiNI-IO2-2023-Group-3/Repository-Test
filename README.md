@@ -12,4 +12,3 @@ Instrukcja:
 ## Lista:
 1. Lacek Pawel
 2. Litkowski Andrzej
-3.Wasilewski Jakub
