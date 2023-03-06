@@ -14,6 +14,7 @@ Instrukcja:
 2. Litkowski Andrzej
 3. Aleksy Balazinski
 1. Bielecki Jakub
-2. Lacek Pawel
-3. Litkowski Andrzej
-4. Wasilewski Jakub
+2. Cichomski Jan
+3. Lacek Pawel
+4. Litkowski Andrzej
+5. Wasilewski Jakub
