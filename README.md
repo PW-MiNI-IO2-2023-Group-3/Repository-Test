@@ -10,6 +10,7 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
+
 1. Lacek Pawel
 2. Litkowski Andrzej
 3. Aleksy Balazinski
@@ -20,4 +21,3 @@ Instrukcja:
 4. Tryksza Agata
 5. Wasilewski Jakub
 6. Weglerska Agata
-
