@@ -10,5 +10,6 @@ Instrukcja:
 * Numery na liście są obowiązkowe
 ---
 ## Lista:
-1. Litkowski Andrzej
-2.Wasilewski Jakub
+1. Lacek Pawel
+2. Litkowski Andrzej
+3.Wasilewski Jakub
