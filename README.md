@@ -17,5 +17,7 @@ Instrukcja:
 2. Cichomski Jan
 3. Lacek Pawel
 4. Litkowski Andrzej
+4. Tryksza Agata
 5. Wasilewski Jakub
 6. Weglerska Agata
+
