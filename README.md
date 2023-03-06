@@ -16,5 +16,6 @@ Instrukcja:
 1. Bielecki Jakub
 2. Cichomski Jan
 3. Lacek Pawel
-4. Litkowski Andrzej
-5. Wasilewski Jakub
+4. Leveilley Emma
+5. Litkowski Andrzej
+6. Wasilewski Jakub
