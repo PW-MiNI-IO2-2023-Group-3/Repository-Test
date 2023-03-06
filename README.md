@@ -11,13 +11,16 @@ Instrukcja:
 ---
 ## Lista:
 
-1. Lacek Pawel
-2. Litkowski Andrzej
-3. Aleksy Balazinski
-1. Bielecki Jakub
-2. Cichomski Jan
-3. Lacek Pawel
-4. Litkowski Andrzej
-4. Tryksza Agata
-5. Wasilewski Jakub
-6. Weglerska Agata
+1. Aleksy Balazinski
+2. Bielecki Jakub
+3. Cichomski Jan
+4. Dąbkowski Adam
+3. Chudek Mateusz
+4. Cichomski Jan
+5. Gajda Wojciech
+6. Lacek Pawel
+7. Litkowski Andrzej
+8. Mirgos Mieszko
+9. Tryksza Agata
+10. Wasilewski Jakub
+11. Weglerska Agata
