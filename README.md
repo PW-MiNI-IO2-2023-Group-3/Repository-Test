@@ -12,6 +12,8 @@ Instrukcja:
 ## Lista:
 1. Aleksy Balazinski
 2. Bielecki Jakub
+3. Cichomski Jan
+4. Dąbkowski Adam
 3. Chudek Mateusz
 4. Cichomski Jan
 5. Gajda Wojciech
